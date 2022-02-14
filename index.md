@@ -3,7 +3,7 @@
 ### Introduction
     hello world
 
-### Demo 1: Performance on Libri2Mix
+### Demo 1: Performance on Libri2Mix[<sup>1</sup>](#ref)
 
 * **Sample 1**
     * **Mixture: Female VS Male**
@@ -79,7 +79,11 @@
     <audio src="exp1_samom/3575-170457-0011_2961-960-0020_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
-    
+
+<div id="ref"></div>
+### References
+
+[1] J. Cosentino, M. Pariente, S. Cornell, A. Deleforge, and E. Vin- cent, “Librimix: An open-source dataset for generalizable speech separation,” arXiv preprint arXiv:2005.11262, 2020.
 
 criterion: smt-adapt_smt-pre_1128 >= (15, 15)
 
