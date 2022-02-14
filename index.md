@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="https://github.com/ZhaZhaFon/samom-demo/blob/gh-pages/wav_samom/61-70968-0000_8455-210777-0012_s0.wav">
+</audio>
+
 You can use the [editor on GitHub](https://github.com/ZhaZhaFon/samom-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
