@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SAMoM Training
 
 <audio id="audio" controls="" preload="none">
 <source id="mp3" src="https://github.com/ZhaZhaFon/samom-demo/blob/gh-pages/wav_samom/61-70968-0000_8455-210777-0012_s0.wav">
