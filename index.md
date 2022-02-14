@@ -3,7 +3,7 @@
 ### Introduction
     hello world
 
-### Demo 1: Performance on Libri2Mix[<sup>[1]</sup>]<!--(#ref)-->
+### Demo 1: Performance on Libri2Mix<sup>[1]</sup><!--[<sup>[1]</sup>](#ref)-->
 
 * **Sample 1**
     * **Mixture: Female VS Male**
