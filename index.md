@@ -8,7 +8,7 @@
 * Sample 1
     * Mixture: Female - Male
     * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
-    <audio src="exp1_mix/7021-79740-0012_1580-141084-0004_s1.wav" controls="controls">
+    <audio src="exp1_mix/7021-79740-0012_1580-141084-0004.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
