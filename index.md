@@ -5,14 +5,14 @@
 
 ### Demo 1: Performance on Libri2Mix
 
-* Sample 1
-    * Mixture: Female - Male
+* **Sample 1**
+    * **Mixture: Female - Male**
     * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
     <audio src="exp1_mix/7021-79740-0012_1580-141084-0004.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * Baseline: Fully Supervised Training on Libri2Mix (sup_med_1126) 
+    * **Baseline: Fully Supervised Training on Libri2Mix** (sup_med_1126)
     * /home/jiangji/basic/exp-samom/sup_med_1126/eval/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_sup
     <audio src="exp1_sup/7021-79740-0012_1580-141084-0004_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
@@ -21,7 +21,7 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * SAMoM: Weakly Supervised SAMoM Training on Libri2Mix (smt-adapt_smt-pre_1128) 
+    * **SAMoM: Weakly Supervised SAMoM Training on Libri2Mix** (smt-adapt_smt-pre_1128)
     * /home/jiangji/basic/exp-samom/smt-adapt_smt-pre_1128 -> /home/jiangji/basic/codebase/samom-demo/exp1_samom
     <audio src="exp1_samom/7021-79740-0012_1580-141084-0004_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
@@ -30,14 +30,14 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-* Sample 2
-    * Mixture: Male - Male
+* **Sample 2**
+    * **Mixture: Male - Male**
     * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
     <audio src="exp1_mix/7021-79740-0012_8455-210777-0020.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * Baseline: Fully Supervised Training (sup_med_1126) 
+    * **Baseline: Fully Supervised Training** (sup_med_1126)
     * /home/jiangji/basic/exp-samom/sup_med_1126/eval/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_sup
     <audio src="exp1_sup/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
@@ -46,7 +46,7 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * SAMoM: Weakly Supervised SAMoM Training (smt-adapt_smt-pre_1128) 
+    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128)
     * /home/jiangji/basic/exp-samom/smt-adapt_smt-pre_1128 -> /home/jiangji/basic/codebase/samom-demo/exp1_samom
     <audio src="exp1_samom/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
@@ -56,13 +56,13 @@
     </audio>
 
 * Sample 3
-    * Mixture: Female - Female
+    * **Mixture: Female - Female**
     * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
     <audio src="exp1_mix/3575-170457-0011_2961-960-0020.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * Baseline: Fully Supervised Training (sup_med_1126) 
+    * **Baseline: Fully Supervised Training** (sup_med_1126) 
     * /home/jiangji/basic/exp-samom/sup_med_1126/eval/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_sup
     <audio src="exp1_sup/3575-170457-0011_2961-960-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
@@ -71,7 +71,7 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * SAMoM: Weakly Supervised SAMoM Training (smt-adapt_smt-pre_1128) 
+    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
     * /home/jiangji/basic/exp-samom/smt-adapt_smt-pre_1128/eva/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_samom
     <audio src="exp1_samom/3575-170457-0011_2961-960-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
