@@ -6,7 +6,7 @@
 ### Demo 1: Performance on Libri2Mix
 
 * **Sample 1**
-    * **Mixture: Female - Male**
+    * **Mixture: Female VS Male**
     * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
     <audio src="exp1_mix/7021-79740-0012_1580-141084-0004.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
@@ -31,7 +31,7 @@
     </audio>
 
 * **Sample 2**
-    * **Mixture: Male - Male**
+    * **Mixture: Male VS Male**
     * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
     <audio src="exp1_mix/7021-79740-0012_8455-210777-0020.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
@@ -56,7 +56,7 @@
     </audio>
 
 * Sample 3
-    * **Mixture: Female - Female**
+    * **Mixture: Female VS Female**
     * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
     <audio src="exp1_mix/3575-170457-0011_2961-960-0020.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
