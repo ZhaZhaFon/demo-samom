@@ -86,7 +86,7 @@
 
 ### References
 
-[1] J. Cosentino, M. Pariente, S. Cornell, A. Deleforge, and E. Vin- cent, “Librimix: An open-source dataset for generalizable speech separation,” arXiv preprint arXiv:2005.11262, 2020.
+[1] J. Cosentino, M. Pariente, S. Cornell, A. Deleforge, and E. Vincent, “Librimix: An open-source dataset for generalizable speech separation,” arXiv preprint arXiv:2005.11262, 2020.
 
 criterion: smt-adapt_smt-pre_1128 >= (15, 15)
 
