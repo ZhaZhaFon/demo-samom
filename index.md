@@ -1,6 +1,6 @@
 ## SAMoM Training
 
-audio1:
+audio2:
 <audio src="wav_samom/s0.mp3" controls="controls">
 无法播放
 </audio>
