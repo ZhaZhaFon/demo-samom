@@ -5,14 +5,24 @@
 
 ### Demo 1: Performance on Libri2Mix<sup>[2]</sup><!--[<sup>[1]</sup>](#ref)-->
 
+* **Sample 1: (Female + Male) -> Female**
+    * **Mixture: Female + Male**
+    <audio src="demo1_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR</audio>
+    * **Baseline: Supervised Training**
+    <audio src="demo1_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
+    * **Ours: Weakly Supervised Training with SAMoM**
+    <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
+
+---
+
 * **Sample 1**
     * **Mixutre: Female + Male**
     <audio src="demo1_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR</audio>
 
     * **Speaker Extraction: Female as Target**  
-        * Fully Supervised Training:  
+        * Baseline: Supervised Training:  
         <audio src="demo1_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>  
-        * Weakly Supervised SAMoM Training:  
+        * SAMoM: Weakly Supervised Training:  
         <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
 
 * **Sample 2**
@@ -25,6 +35,7 @@
         * Weakly Supervised SAMoM Training:  
         <audio src="demo1_samom/5639-40744-0012_5683-32879-0021_s0.wav" controls="controls">ERROR</audio>
 
+* **Sample 3**
     ---
 
     * **Mixture: Female + Male**  
