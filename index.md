@@ -51,12 +51,12 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **Baseline: Fully Supervised Training** (sup-noisy_med_0111）
+    * **Baseline: Fully Supervised Training**
     <audio src="demo3_sup/237-134500-0008_8455-210777-0040_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
+    * **SAMoM: Weakly Supervised SAMoM Training**
     <audio src="demo3_samom/237-134500-0008_8455-210777-0040_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
@@ -69,12 +69,12 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **Baseline: Fully Supervised Training** (sup-noisy_med_0111）
+    * **Baseline: Fully Supervised Training**
     <audio src="demo3_sup/7127-75947-0019_1089-134691-0018_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
+    * **SAMoM: Weakly Supervised SAMoM Training** 
     <audio src="demo3_samom/7127-75947-0019_1089-134691-0018_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
@@ -87,12 +87,12 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **Baseline: Fully Supervised Training** (sup-noisy_med_0111）
+    * **Baseline: Fully Supervised Training**
     <audio src="demo3_sup/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
+    * **SAMoM: Weakly Supervised SAMoM Training** 
     <audio src="demo3_samom/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
@@ -105,12 +105,12 @@
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **Baseline: Fully Supervised Training** (sup-noisy_med_0111）
+    * **Baseline: Fully Supervised Training**
     <audio src="demo3_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
-    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
+    * **SAMoM: Weakly Supervised SAMoM Training**
     <audio src="demo3_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
