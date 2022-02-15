@@ -6,7 +6,7 @@
 ### Demo 1: Performance on Libri2Mix<sup>[2]</sup><!--[<sup>[1]</sup>](#ref)-->
 
 * **Sample 1**
-    * **Mixture: Female + Male**
+    * **Mixture: Female + Male**  
     Baseline: <audio src="exp1_mix/7021-79740-0012_1580-141084-0004.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
