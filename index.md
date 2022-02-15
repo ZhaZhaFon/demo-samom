@@ -9,8 +9,21 @@
     * **Mixutre: Female + Male**
     <audio src="demo1_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR</audio>
 
-    * **Extraction Result: Female as Target**  
-    Supervised: <audio src="demo1_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio> SAMoM: <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
+    * **Speaker Extraction: Female as Target**  
+        * Fully Supervised Training:  
+        <audio src="demo1_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>  
+        * Weakly Supervised SAMoM Training:  
+        <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
+
+* **Sample 2**
+    * **Mixture: Female + Male**
+    <audio src="demo1_mix/5639-40744-0012_5683-32879-0021.wav" controls="controls">ERROR</audio>
+
+    * **Speaker Extraction: Male as Target**
+        * Fully Supervised Training:  
+        <audio src="demo1_sup/5639-40744-0012_5683-32879-0021_s0.wav" controls="controls">ERROR</audio>
+        * Weakly Supervised SAMoM Training:  
+        <audio src="demo1_samom/5639-40744-0012_5683-32879-0021_s0.wav" controls="controls">ERROR</audio>
 
     ---
 
