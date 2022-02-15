@@ -13,6 +13,14 @@
     * **Ours: Weakly Supervised Training with SAMoM**
     <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
 
+* **Sample 2: (Female + Male) -> Male**
+    * **Mixture: Female + Male**
+     <audio src="demo1_mix/1320-122617-0035_121-121726-0009.wav" controls="controls">ERROR</audio>
+    * **Baseline: Supervised Training**
+    <audio src="demo1_sup/1320-122617-0035_121-121726-0009_s0.wav" controls="controls">ERROR</audio>
+    * **Ours: Weakly Supervised Training with SAMoM**
+    <audio src="demo1_samom/1320-122617-0035_121-121726-0009_s0.wav" controls="controls">ERROR</audio>
+    
 ---
 
 * **Sample 1**
