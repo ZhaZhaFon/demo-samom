@@ -3,82 +3,94 @@
 ### Introduction
     hello world
 
-### Demo 1: Performance on Libri2Mix<sup>[1]</sup><!--[<sup>[1]</sup>](#ref)-->
+### Demo 1: Performance on Libri2Mix<sup>[2]</sup><!--[<sup>[1]</sup>](#ref)-->
 
 * **Sample 1**
-    * **Mixture: Female VS Male**
-    * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
+    * **Mixture: Female + Male**
     <audio src="exp1_mix/7021-79740-0012_1580-141084-0004.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
     * **Baseline: Fully Supervised Training on Libri2Mix** (sup_med_1126)
-    * /home/jiangji/basic/exp-samom/sup_med_1126/eval/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_sup
     <audio src="exp1_sup/7021-79740-0012_1580-141084-0004_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
-    </audio>
+    <!--</audio>
     <audio src="exp1_sup/7021-79740-0012_1580-141084-0004_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
-    </audio>
+    </audio>-->
 
     * **SAMoM: Weakly Supervised SAMoM Training on Libri2Mix** (smt-adapt_smt-pre_1128)
-    * /home/jiangji/basic/exp-samom/smt-adapt_smt-pre_1128 -> /home/jiangji/basic/codebase/samom-demo/exp1_samom
     <audio src="exp1_samom/7021-79740-0012_1580-141084-0004_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
-    <audio src="exp1_samom/7021-79740-0012_1580-141084-0004_s0.wav" controls="controls">
+    <!--<audio src="exp1_samom/7021-79740-0012_1580-141084-0004_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
-    </audio>
+    </audio>-->
 
 * **Sample 2**
-    * **Mixture: Male VS Male**
-    * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
+    * **Mixture: Male + Male**
     <audio src="exp1_mix/7021-79740-0012_8455-210777-0020.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
     * **Baseline: Fully Supervised Training** (sup_med_1126)
-    * /home/jiangji/basic/exp-samom/sup_med_1126/eval/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_sup
-    <audio src="exp1_sup/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
-    ERROR !!! Cannot Play Audio !!!
-    </audio>
     <audio src="exp1_sup/7021-79740-0012_8455-210777-0020_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
+    <!--<audio src="exp1_sup/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>-->
 
     * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128)
-    * /home/jiangji/basic/exp-samom/smt-adapt_smt-pre_1128 -> /home/jiangji/basic/codebase/samom-demo/exp1_samom
-    <audio src="exp1_samom/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
-    ERROR !!! Cannot Play Audio !!!
-    </audio>
     <audio src="exp1_samom/7021-79740-0012_8455-210777-0020_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
-    </audio>
+    <!--</audio>
+    <audio src="exp1_samom/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>-->
 
 * Sample 3
-    * **Mixture: Female VS Female**
-    * /home/jiangji/basic/dataset/librimix/Libri2Mix/wav8k/min/test/mix_clean -> /home/jiangji/basic/codebase/samom-demo/exp1_mix
+    * **Mixture: Female + Female**
     <audio src="exp1_mix/3575-170457-0011_2961-960-0020.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
     * **Baseline: Fully Supervised Training** (sup_med_1126) 
-    * /home/jiangji/basic/exp-samom/sup_med_1126/eval/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_sup
-    <audio src="exp1_sup/3575-170457-0011_2961-960-0020_s0.wav" controls="controls">
+    <!--<audio src="exp1_sup/3575-170457-0011_2961-960-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
-    </audio>
+    </audio>-->
     <audio src="exp1_sup/3575-170457-0011_2961-960-0020_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
 
     * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
-    * /home/jiangji/basic/exp-samom/smt-adapt_smt-pre_1128/eva/wav_est -> /home/jiangji/basic/codebase/samom-demo/exp1_samom
-    <audio src="exp1_samom/3575-170457-0011_2961-960-0020_s0.wav" controls="controls">
+    <!--<audio src="exp1_samom/3575-170457-0011_2961-960-0020_s0.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
-    </audio>
+    </audio>-->
     <audio src="exp1_samom/3575-170457-0011_2961-960-0020_s1.wav" controls="controls">
     ERROR !!! Cannot Play Audio !!!
     </audio>
+
+### Demo 2: Cross-domain Evaluation on Proposed aishell1-2mix
+
+Baseline: (sup-pre_1208-eval)
+    ...
+SAMoM: (smt-domain_smt-pre_1212/eval1227)
+x 3
+
+### Demo 3: Noisy Scenario
+
+* **Sample 1**
+    * **Mixture: Female + Male**
+
+F-F -> F
+    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/2830-3979-0011_1580-141084-0010_s1.wav
+F-M -> F
+    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/237-134500-0008_8455-210777-0040_s0.wav
+M-M -> M
+    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/7021-79740-0012_8455-210777-0020_s0.wav
+F-M -> M
+    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/1089-134686-0015_4970-29093-0003_s0.wav
 
 ### Materials
 
@@ -86,9 +98,13 @@
 
 ### References
 
-[1] J. Cosentino, M. Pariente, S. Cornell, A. Deleforge, and E. Vincent, “Librimix: An open-source dataset for generalizable speech separation,” arXiv preprint arXiv:2005.11262, 2020.
+[1] M. Delcroix, T. Ochiai, K. Zmolikova, K. Kinoshita, N. Tawara, T. Nakatani, and S. Araki, “Improving speaker discrimination of target speech extraction with time-domain speakerbeam,” in ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020, pp. 691–695.
+[2] J. Cosentino, M. Pariente, S. Cornell, A. Deleforge, and E. Vincent, “Librimix: An open-source dataset for generalizable speech separation,” arXiv preprint arXiv:2005.11262, 2020.
+
 
 criterion: smt-adapt_smt-pre_1128 >= (15, 15)
+
+### exp1: baseline / proposed
 
 * sample 1 (M-M) 19-15
     /home/zzf/experiment-samom/smt-adapt_smt-pre_1128/eval/wav_est/7021-79740-0012_8455-210777-0020_s0.wav
@@ -106,6 +122,11 @@ Baseline: (sup-pre_1208-eval)
     ...
 SAMoM: (smt-domain_smt-pre_1212/eval1227)
 x 3
+
+* sample 1
+* sample 2
+* sample 3
+
 
 ### sep-noisy
 
