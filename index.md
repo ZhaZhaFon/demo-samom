@@ -6,10 +6,21 @@
 ### Demo 1: Performance on Libri2Mix<sup>[2]</sup><!--[<sup>[1]</sup>](#ref)-->
 
 * **Sample 1**
+    * **Mixutre: Female + Male**
+    <audio src="demo1_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR</audio>
+
+    * **Extraction Result: Female as Target**  
+    Supervised: <audio src="demo1_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio> SAMoM: <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
+
+    ---
+
     * **Mixture: Female + Male**  
-    Baseline: <audio src="exp1_mix/7021-79740-0012_1580-141084-0004.wav" controls="controls">
-    ERROR !!! Cannot Play Audio !!!
-    </audio>
+    Baseline: <audio src="exp1_mix/7021-79740-0012_1580-141084-0004.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>
+
+    *
+    <!-- /home/zzf/experiment-samom/smt-adapt_smt-pre_1128/eval/wav_est/2830-3979-0011_1580-141084-0010_s1.wav -->
+/home/zzf/experiment-samom/smt-adapt_smt-pre_1128/eval/wav_est/2830-3979-0011_1580-141084-0010_s1.wav-->
+    * **Target: Female Speaker
 
     * **Baseline: Fully Supervised Training on Libri2Mix** (sup_med_1126)
     <audio src="exp1_sup/7021-79740-0012_1580-141084-0004_s1.wav" controls="controls">
