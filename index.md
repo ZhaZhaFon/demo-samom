@@ -33,7 +33,17 @@
     * **Ours: Weakly Supervised Training with SAMoM**
     <audio src="demo1_samom/6930-75918-0007_1089-134691-0022_s1.wav" controls="controls">ERROR</audio>
 
-/home/zzf/experiment-samom/smt-adapt_smt-pre_1128/eval/wav_est/6930-75918-0007_1089-134691-0022_s1.wav
+---
+
+* **Sample 4: ( Female + Female ) => Female**
+    * **Mixture: Female + Female**
+     <audio src="demo1_mix/1580-141083-0008_4507-16021-0029.wav" controls="controls">ERROR</audio>
+    * **Baseline: Supervised Training**
+    <audio src="demo1_sup/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>
+    * **Ours: Weakly Supervised Training with SAMoM**
+    <audio src="demo1_samom/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>
+
+---
 
 * **Sample 1**
     * **Mixutre: Female + Male**
