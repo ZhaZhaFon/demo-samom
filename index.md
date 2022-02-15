@@ -82,15 +82,51 @@ x 3
 
 * **Sample 1**
     * **Mixture: Female + Male**
+    <audio src="demo3_mix/237-134500-0008_8455-210777-0040.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
 
-F-F -> F
-    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/2830-3979-0011_1580-141084-0010_s1.wav
-F-M -> F
-    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/237-134500-0008_8455-210777-0040_s0.wav
-M-M -> M
-    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/7021-79740-0012_8455-210777-0020_s0.wav
-F-M -> M
-    /home/zzf/experiment-samom/nmt_med_1129/eval/wav_est/1089-134686-0015_4970-29093-0003_s0.wav
+    * **Baseline: Fully Supervised Training** (sup-noisy_med_0111）
+    <audio src="demo3_sup/237-134500-0008_8455-210777-0040_s0.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
+
+    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
+    <audio src="demo3_samom/237-134500-0008_8455-210777-0040_s0.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
+
+* **Sample 2**
+    * **Mixture: Male + Male**
+    <audio src="demo3_mix/7021-79740-0012_8455-210777-0020.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
+
+    * **Baseline: Fully Supervised Training** (sup-noisy_med_0111）
+    <audio src="demo3_sup/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
+
+    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
+    <audio src="demo3_samom/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
+
+* **Sample 3**
+    * **Mixture: Female + Female**
+    <audio src="demo3_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
+
+    * **Baseline: Fully Supervised Training** (sup-noisy_med_0111）
+    <audio src="demo3_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
+
+    * **SAMoM: Weakly Supervised SAMoM Training** (smt-adapt_smt-pre_1128) 
+    <audio src="demo3_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">
+    ERROR !!! Cannot Play Audio !!!
+    </audio>
 
 ### Materials
 
