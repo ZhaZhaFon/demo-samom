@@ -5,7 +5,7 @@
 
 ### Demo 1: Performance on Libri2Mix<sup>[2]</sup><!--[<sup>[1]</sup>](#ref)-->
 
-* **Sample 1: (Female + Male) -> Female**
+* **Sample 1: ( Female + Male ) => Female**
     * **Mixture: Female + Male**
     <audio src="demo1_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR</audio>
     * **Baseline: Supervised Training**
@@ -13,15 +13,27 @@
     * **Ours: Weakly Supervised Training with SAMoM**
     <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
 
-* **Sample 2: (Female + Male) -> Male**
+---
+
+* **Sample 2: ( Female + Male ) => Male**
     * **Mixture: Female + Male**
      <audio src="demo1_mix/1320-122617-0035_121-121726-0009.wav" controls="controls">ERROR</audio>
     * **Baseline: Supervised Training**
     <audio src="demo1_sup/1320-122617-0035_121-121726-0009_s0.wav" controls="controls">ERROR</audio>
     * **Ours: Weakly Supervised Training with SAMoM**
     <audio src="demo1_samom/1320-122617-0035_121-121726-0009_s0.wav" controls="controls">ERROR</audio>
-    
+
 ---
+
+* **Sample 3: ( Male + Male ) => Male**
+    * **Mixture: Female + Male**
+     <audio src="demo1_mix/6930-75918-0007_1089-134691-0022.wav" controls="controls">ERROR</audio>
+    * **Baseline: Supervised Training**
+    <audio src="demo1_sup/6930-75918-0007_1089-134691-0022_s1.wav" controls="controls">ERROR</audio>
+    * **Ours: Weakly Supervised Training with SAMoM**
+    <audio src="demo1_samom/6930-75918-0007_1089-134691-0022_s1.wav" controls="controls">ERROR</audio>
+
+/home/zzf/experiment-samom/smt-adapt_smt-pre_1128/eval/wav_est/6930-75918-0007_1089-134691-0022_s1.wav
 
 * **Sample 1**
     * **Mixutre: Female + Male**
