@@ -1,7 +1,13 @@
 ## Speaker-aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction
 
 ### Introduction
-    This is a demo webpage for our paper _Speaker-aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction_. In the following, we will show the performance of both supervised training and the proposed weakly supervised training(SAMoM) for comparison.
+
+This is a demo webpage for our paper **_Speaker-aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction_**. In the following, we will show the performance of both supervised training and the proposed weakly supervised training(SAMoM) for comparison.  
+
+![BlockDiagram](fig/20220123_SAMoM2.png)
+<center>
+  <div style="color:orange; border-bottom: 1px solid #d9d9d9; display: inline-block; color: #999; padding: 2px;">Block Diagram of the Proposed SAMoM Training</div>
+</center>	
 
 ### Demo 1: Performance on Libri2Mix<sup>[2]</sup>
 
@@ -47,7 +53,7 @@
 
 * Comming Soon...
 
-### Demo 3: Noisy Scenario<sup>[3]</sup>
+### Demo 3: Noisy Scenario<sup>[2][3]</sup>
 
 * **Sample 1: ( Female + Male + Noise ) => Female**
     * **Mixture**
