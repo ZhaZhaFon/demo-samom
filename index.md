@@ -5,6 +5,9 @@
 This is a demo webpage for our paper **_Speaker-aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction_**. In the following, we will show the performance of both supervised training and the proposed weakly supervised training(SAMoM) for comparison.  
 
 ![BlockDiagram](fig/20220123_SAMoM2.png)
+<div align=center>
+  <img src="fig/20220123_SAMoM2.png" width="100" height="50" />
+</div>
 <center>
   <div style="color:orange; border-bottom: 1px solid #d9d9d9; display: inline-block; color: #999; padding: 2px;">Block Diagram of the Proposed SAMoM Training</div>
 </center>	
