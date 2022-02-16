@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a demo webpage for our paper **_Speaker-aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction_**. In the following, we will show the performance of both supervised training and the proposed weakly supervised training(SAMoM) for comparison.  
+This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speaker-aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction_**. In the following, we will show the performance of both supervised training and the proposed weakly supervised training(SAMoM) for comparison.  
 
 <div align=center>
   <img src="fig/20220123_SAMoM2.png" width="592" height="160" />
