@@ -1,5 +1,10 @@
 ## Speaker-Aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction
 
+<center>Zifeng Zhao<sup>1</sup>, Rongzhi Gu<sup>1</sup>, Dongchao Yang<sup>1</sup>, Jinchuan Tian<sup>1</sup>, Yuexian Zou<sup>1, 2</sup></center>
+
+<center>1 Peking University</center>
+<center>2 Peng Cheng Laboratory</center>
+
 ### Introduction
 
 This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speaker-Aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction_**. In the following, we will show the performance of both supervised training and the proposed weakly supervised training(SAMoM for short) for comparison.  
