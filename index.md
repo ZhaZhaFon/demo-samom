@@ -14,6 +14,13 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 ### Demo 1: Performance on Libri2Mix<sup>[2]</sup>
 
 * **Sample 1: ( Female + Male ) => Female**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+|<audio src="demo1_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR</audio>|<audio src="demo1_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>|<audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
+
+<!--
+* **Sample 1: ( Female + Male ) => Female**
     * **Mixture**
     <audio src="demo1_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR</audio>
     * **Baseline: Supervised Training**
@@ -22,7 +29,15 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     <audio src="demo1_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR</audio>
 
 ---
+-->
 
+* **Sample 2: ( Female + Male ) => Male**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+|<audio src="demo1_mix/1320-122617-0035_121-121726-0009.wav" controls="controls">ERROR</audio>|<audio src="demo1_sup/1320-122617-0035_121-121726-0009_s0.wav" controls="controls">ERROR</audio>|<audio src="demo1_samom/1320-122617-0035_121-121726-0009_s0.wav" controls="controls">ERROR</audio>|
+
+<!--
 * **Sample 2: ( Female + Male ) => Male**
     * **Mixture**
      <audio src="demo1_mix/1320-122617-0035_121-121726-0009.wav" controls="controls">ERROR</audio>
@@ -32,7 +47,15 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     <audio src="demo1_samom/1320-122617-0035_121-121726-0009_s0.wav" controls="controls">ERROR</audio>
 
 ---
+-->
 
+* **Sample 3: ( Male + Male ) => Male**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+|<audio src="demo1_mix/6930-75918-0007_1089-134691-0022.wav" controls="controls">ERROR</audio>|<audio src="demo1_sup/6930-75918-0007_1089-134691-0022_s1.wav" controls="controls">ERROR</audio>|<audio src="demo1_samom/6930-75918-0007_1089-134691-0022_s1.wav" controls="controls">ERROR</audio>|
+
+<!--
 * **Sample 3: ( Male + Male ) => Male**
     * **Mixture**
      <audio src="demo1_mix/6930-75918-0007_1089-134691-0022.wav" controls="controls">ERROR</audio>
@@ -42,7 +65,15 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     <audio src="demo1_samom/6930-75918-0007_1089-134691-0022_s1.wav" controls="controls">ERROR</audio>
 
 ---
+-->
 
+* **Sample 4: ( Female + Female ) => Female**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+|<audio src="demo1_mix/1580-141083-0008_4507-16021-0029.wav" controls="controls">ERROR</audio>|<audio src="demo1_sup/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>|<audio src="demo1_samom/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>|
+
+<!--
 * **Sample 4: ( Female + Female ) => Female**
     * **Mixture**
      <audio src="demo1_mix/1580-141083-0008_4507-16021-0029.wav" controls="controls">ERROR</audio>
@@ -50,6 +81,7 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     <audio src="demo1_sup/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>
     * **Ours: Weakly Supervised Training with SAMoM**
     <audio src="demo1_samom/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>
+-->
 
 ### Demo 2: Cross-domain Evaluation
 
@@ -57,6 +89,13 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 
 ### Demo 3: Noisy Scenario<sup>[2][3]</sup>
 
+* **Sample 1: ( Female + Male + Noise ) => Female**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+<audio src="demo3_mix/237-134500-0008_8455-210777-0040.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_sup/237-134500-0008_8455-210777-0040_s0.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_samom/237-134500-0008_8455-210777-0040_s0.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+<!--
 * **Sample 1: ( Female + Male + Noise ) => Female**
     * **Mixture**
     <audio src="demo3_mix/237-134500-0008_8455-210777-0040.wav" controls="controls">
@@ -74,7 +113,15 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     </audio>
 
 ---
+-->
 
+* **Sample 2: ( Female + Male + Noise ) => Male**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+|<audio src="demo3_mix/7127-75947-0019_1089-134691-0018.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_sup/7127-75947-0019_1089-134691-0018_s0.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_samom/7127-75947-0019_1089-134691-0018_s0.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+<!--
 * **Sample 2: ( Female + Male + Noise ) => Male**
     * **Mixture**
     <audio src="demo3_mix/7127-75947-0019_1089-134691-0018.wav" controls="controls">
@@ -92,7 +139,15 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     </audio>
 
 ---
+-->
 
+* **Sample 3: ( Male + Male + Noise ) => Male**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+|<audio src="demo3_mix/7021-79740-0012_8455-210777-0020.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_sup/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_samom/7021-79740-0012_8455-210777-0020_s0.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+<!--
 * **Sample 3: ( Male + Male + Noise ) => Male**
     * **Mixture**
     <audio src="demo3_mix/7021-79740-0012_8455-210777-0020.wav" controls="controls">
@@ -110,7 +165,15 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     </audio>
 
 ---
+-->
 
+* **Sample 4: ( Female + Female + Noise ) => Female**
+
+| <center>Mixture</center> | <center>Baseline: Supervised Training</center> | <center>Ours: Weakly Supervised Training</center> |
+| :--- | :--- | :--- |
+|<audio src="demo3_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_sup/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo3_samom/2830-3979-0011_1580-141084-0010_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+<!--
 * **Sample 4: ( Female + Female + Noise ) => Female**
     * **Mixture**
     <audio src="demo3_mix/2830-3979-0011_1580-141084-0010.wav" controls="controls">
@@ -128,6 +191,7 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     </audio>
 
 ---
+-->
 
 ### Links
 
