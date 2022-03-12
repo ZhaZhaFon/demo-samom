@@ -13,7 +13,7 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
   <img src="fig/20220123_SAMoM2.png" width="740" height="200" />
 </div>
 <center>
-  <div style="color:orange; border-bottom: 1px solid #d9d9d9; display: inline-block; color: #999; padding: 2px;">Block Diagram of the Proposed SAMoM Training (SAMoM for short)</div>
+  <div style="color:orange; border-bottom: 1px solid #d9d9d9; display: inline-block; color: #999; padding: 2px;">Block Diagram of the Proposed SAMoM Training</div>
 </center>	
 
 ### Demo 1: Performance on Libri2Mix<sup>[2]</sup>
