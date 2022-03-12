@@ -200,7 +200,8 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 
 ### Links
 
-[Paper] [Bibtex] [[ADSPLab@PKU](https://web.pkusz.edu.cn/adsp/)]
+[Paper] [Bibtex] 
+*[^_^]:[[ADSPLab@PKU](https://web.pkusz.edu.cn/adsp/)]
 
 ### References
 
