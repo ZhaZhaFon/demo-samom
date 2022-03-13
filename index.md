@@ -200,7 +200,7 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 
 ### Links
 
-[Paper] [Bibtex] [[github.io](https://github.com/ZhaZhaFon/demo-samom)]
+[Paper] [Bibtex] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-samom)]
 
 ### References
 
