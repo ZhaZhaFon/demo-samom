@@ -88,7 +88,7 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     <audio src="demo1_samom/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>
 -->
 
-### Demo 2: Cross-domain Evaluation[3]
+### Demo 2: Cross-domain Evaluation<sup>[3]</sup>
 
 * **Sample 1: ( Female + Male) => Female**
 
