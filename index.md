@@ -96,19 +96,19 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 | :--- | :--- | :--- |
 <audio src="demo2_mix/3_BAC009S0752W0407_BAC009S0730W0209.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_bsln/3_BAC009S0752W0407_BAC009S0730W0209_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_samom/3_BAC009S0752W0407_BAC009S0730W0209_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
 
-* **Sample 1: ( Female + Male) => Male**
+* **Sample 2: ( Female + Male) => Male**
 
 | <center>Mixture</center> | <center>Baseline: w/o Doamin Adaptation</center> | <center>Ours: w/ Doamin Adaptation</center> |
 | :--- | :--- | :--- |
 <audio src="demo2_mix/235_BAC009S0734W0146_BAC009S0750W0366.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_bsln/235_BAC009S0734W0146_BAC009S0750W0366_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_samom/235_BAC009S0734W0146_BAC009S0750W0366_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
 
-* **Sample 1: ( Male + Male) => Male**
+* **Sample 3: ( Male + Male) => Male**
 
 | <center>Mixture</center> | <center>Baseline: w/o Doamin Adaptation</center> | <center>Ours: w/ Doamin Adaptation</center> |
 | :--- | :--- | :--- |
 <audio src="demo2_mix/432_BAC009S0732W0260_BAC009S0731W0404.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_bsln/432_BAC009S0732W0260_BAC009S0731W0404_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_samom/432_BAC009S0732W0260_BAC009S0731W0404_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
 
-* **Sample 1: ( Female + Female) => Female**
+* **Sample 4: ( Female + Female) => Female**
 
 | <center>Mixture</center> | <center>Baseline: w/o Doamin Adaptation</center> | <center>Ours: w/ Doamin Adaptation</center> |
 | :--- | :--- | :--- |
