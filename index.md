@@ -88,11 +88,34 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
     <audio src="demo1_samom/1580-141083-0008_4507-16021-0029_s1.wav" controls="controls">ERROR</audio>
 -->
 
-### Demo 2: Cross-domain Evaluation
+### Demo 2: Cross-domain Evaluation[3]
 
-* Comming Soon...
+* **Sample 1: ( Female + Male) => Female**
 
-### Demo 3: Noisy Scenario<sup>[2][3]</sup>
+| <center>Mixture</center> | <center>Baseline: w/o Doamin Adaptation</center> | <center>Ours: w/ Doamin Adaptation</center> |
+| :--- | :--- | :--- |
+<audio src="demo2_mix/3_BAC009S0752W0407_BAC009S0730W0209.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_bsln/3_BAC009S0752W0407_BAC009S0730W0209_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_samom/3_BAC009S0752W0407_BAC009S0730W0209_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+* **Sample 1: ( Female + Male) => Male**
+
+| <center>Mixture</center> | <center>Baseline: w/o Doamin Adaptation</center> | <center>Ours: w/ Doamin Adaptation</center> |
+| :--- | :--- | :--- |
+<audio src="demo2_mix/235_BAC009S0734W0146_BAC009S0750W0366.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_bsln/235_BAC009S0734W0146_BAC009S0750W0366_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_samom/235_BAC009S0734W0146_BAC009S0750W0366_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+* **Sample 1: ( Male + Male) => Male**
+
+| <center>Mixture</center> | <center>Baseline: w/o Doamin Adaptation</center> | <center>Ours: w/ Doamin Adaptation</center> |
+| :--- | :--- | :--- |
+<audio src="demo2_mix/344_BAC009S0746W0401_BAC009S0742W0353.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_bsln/344_BAC009S0746W0401_BAC009S0742W0353_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_samom/344_BAC009S0746W0401_BAC009S0742W0353_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+* **Sample 1: ( Female + Female) => Female**
+
+| <center>Mixture</center> | <center>Baseline: w/o Doamin Adaptation</center> | <center>Ours: w/ Doamin Adaptation</center> |
+| :--- | :--- | :--- |
+<audio src="demo2_mix/432_BAC009S0732W0260_BAC009S0731W0404.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_bsln/432_BAC009S0732W0260_BAC009S0731W0404_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|<audio src="demo2_samom/432_BAC009S0732W0260_BAC009S0731W0404_s1.wav" controls="controls">ERROR !!! Cannot Play Audio !!!</audio>|
+
+
+### Demo 3: Noisy Scenario<sup>[2][4]</sup>
 
 * **Sample 1: ( Female + Male + Noise ) => Female**
 
@@ -206,4 +229,5 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 
 [1] M. Delcroix, T. Ochiai, K. Zmolikova, K. Kinoshita, N. Tawara, T. Nakatani, and S. Araki, “Improving speaker discrimination of target speech extraction with time-domain speakerbeam,” in ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020, pp. 691695.  
 [2] J. Cosentino, M. Pariente, S. Cornell, A. Deleforge, and E. Vincent, “Librimix: An open-source dataset for generalizable speech separation,” arXiv preprint arXiv:2005.11262, 2020.  
-[3] G. Wichern, J. Antognini, M. Flynn, L. R. Zhu, E. McQuinn, D. Crow, E. Manilow, and J. Le Roux, “WHAM!: extending speech separation to noisy environments,” in Interspeech, 2019, pp. 1368–1372.x
+[3] 
+[4] G. Wichern, J. Antognini, M. Flynn, L. R. Zhu, E. McQuinn, D. Crow, E. Manilow, and J. Le Roux, “WHAM!: extending speech separation to noisy environments,” in Interspeech, 2019, pp. 1368–1372.x
