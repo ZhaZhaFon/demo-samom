@@ -223,7 +223,7 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 
 ### Links
 
-[Paper] [Bibtex] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-samom)]
+[[Paper](https://arxiv.org/abs/2204.07375)] [Bibtex] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-samom)]
 
 ### References
 
