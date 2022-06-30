@@ -225,7 +225,7 @@ This is a [demo](https://zhazhafon.github.io/demo-samom/) for our paper **_Speak
 
 [[Paper](https://arxiv.org/abs/2204.07375)] [[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:whpqng2yJVwJ:scholar.google.com/&output=citation&scisdr=CgUTx7f9EO7ykikJels:AAGBfm0AAAAAYr0PYltnD7i-3tpvJdANHLMIjMbLSUHH&scisig=AAGBfm0AAAAAYr0PYjrfEdiTwJd4oyOb3tSfixuX6e3t&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-samom)]
 
-### Links
+### News
 
 * 2022-06-15 Paper accepted by INTERSPEECH 2022  
 * 2022-04-15 Paper available on arXiv
