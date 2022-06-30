@@ -1,0 +1,6 @@
+@article{zhao2022speaker,
+  title={Speaker-Aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction},
+  author={Zhao, Zifeng and Gu, Rongzhi and Yang, Dongchao and Tian, Jinchuan and Zou, Yuexian},
+  journal={arXiv preprint arXiv:2204.07375},
+  year={2022}
+}
