@@ -4,7 +4,6 @@
 
 <center>1 Peking University</center>
 <center>2 Peng Cheng Laboratory</center>
-<center>2 Peng Cheng Laboratory</center>
 
 ### Introduction
 
